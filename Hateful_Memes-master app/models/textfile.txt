@@ -1,0 +1,29 @@
+TfidfVectorizer(min_df=15,
+                stop_words=['i', 'me', 'my', 'myself', 'we', 'our', 'ours',
+                            'ourselves', 'you', "you're", "you've", "you'll",
+                            "you'd", 'your', 'yours', 'yourself', 'yourselves',
+                            'he', 'him', 'his', 'himself', 'she', "she's",
+                            'her', 'hers', 'herself', 'it', "it's", 'its',
+                            'itself', ...])
+CountVectorizer(min_df=15,
+                stop_words=['i', 'me', 'my', 'myself', 'we', 'our', 'ours',
+                            'ourselves', 'you', "you're", "you've", "you'll",
+                            "you'd", 'your', 'yours', 'yourself', 'yourselves',
+                            'he', 'him', 'his', 'himself', 'she', "she's",
+                            'her', 'hers', 'herself', 'it', "it's", 'its',
+                            'itself', ...])
+TfidfVectorizer(max_df=700, min_df=15,
+                stop_words=['i', 'me', 'my', 'myself', 'we', 'our', 'ours',
+                            'ourselves', 'you', "you're", "you've", "you'll",
+                            "you'd", 'your', 'yours', 'yourself', 'yourselves',
+                            'he', 'him', 'his', 'himself', 'she', "she's",
+                            'her', 'hers', 'herself', 'it', "it's", 'its',
+                            'itself', ...])
+AdaBoostClassifier()
+LogisticRegression(random_state=42)
+BernoulliNB()
+RandomForestClassifier(min_samples_leaf=10, random_state=42)
+LogisticRegression(random_state=42)
+
+
+

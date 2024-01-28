@@ -1,0 +1,143 @@
+<!doctype html>
+                        <html>
+                            <head>
+                                <meta charset='utf-8'>
+                                <meta name='viewport' content='width=device-width, initial-scale=1'>
+                                <title>Hateful Meme Detection</title>
+                                <link href='https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css' rel='stylesheet'>
+                                <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'>
+                                <style>body {
+    background: #eee
+}
+
+.share-input:focus {
+    outline: 0 !important;
+    box-shadow: none
+}
+
+.share-input {
+    outline: 0 !important;
+    box-shadow: none
+}
+
+.publish {
+    border-radius: 0px !important;
+    background: blue;
+    color: #fff;
+    cursor: pointer
+}
+
+.publish:hover {
+    border-radius: 0px !important;
+    background: rgb(22, 22, 232);
+    color: #fff;
+    cursor: pointer
+}
+
+.share i {
+    color: rgb(159, 159, 242) !important
+}
+
+.share {
+    cursor: pointer
+}
+
+.ads-text {
+    font-size: 10px
+}
+
+.ads-content span {
+    font-size: 12px
+}
+
+.time {
+    font-size: 12px;
+    color: blue
+}
+
+.profile-content span {
+    font-size: 12px
+}
+
+.content-image img {
+    width: 100%;
+    height: auto
+}
+
+.ads-content img {
+    width: 100%
+}</style>
+                                <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+                                <script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js'></script>
+                                <script type='text/javascript'></script>
+                            </head>
+                            <body oncontextmenu='return false' class='snippet-body'>
+                            <div class="container mt-5 mb-5">
+    <div class="d-flex justify-content-center row">
+        <div class="col-md-8">
+            <div class="feed">
+                <div class="share border bg-white">
+                    <div class="d-flex flex-row inputs p-2 py-4"><img class="rounded-circle" src="static/icon.jpeg" width="40"><input type="text" class="border-0 form-control share-input" placeholder="Share your thoughts"></div>
+                        <div class="d-flex flex-row justify-content-between border-top">
+                            <div class="d-flex flex-row publish-options">
+                                <div class="align-items-center border-right p-2 share"><i class="fa fa-camera text-black-50"></i><span class="ml-1"></span>
+                            <label class="align-items-center ml-1 p-2 share "><form method="POST" action="" enctype="multipart/form-data"><p><input type="file" class="ml-1" name="file" style="display: none;"> </p><a class=" ">Photo</a>
+                                </label>
+                                </div>
+
+
+                                <div class="align-items-center border-right p-2 share"><i class="fa fa-video-camera text-black-50"></i><span class="ml-1"><label class="align-items-center ml-1 p-2 share "><p></p><a class=" ">Video</a>
+                                </label></span>
+                                </div>
+                                <div class="align-items-center border-right p-2 share"><i class="fa fa-file text-black-50"></i><span class="ml-1"><label class="align-items-center ml-1 p-2 share "><p></p><a class=" ">Files</a>
+                                </label></span>
+                                </div>
+                            </div>
+                            <div class="publish-button">
+                                <div class="align-items-center border-left p-2 px-5 btn publish"><span class="ml-1"></span><p><input class=" btn publish"type="submit" value="Publish"></p>
+                                </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ads mt-2 border">
+                        <div class="p-2 bg-white">
+                            <div class="d-flex flex-row justify-content-between align-items-center">
+                            <h6>Want to draw online with friends?</h6><span class="border px-2 ads-text">Ad</span>
+                            </div>
+                            <div class="ads-content"><span>Try sketchApp. It lets you collaboratively draw online with friends. It makes use of nodejs and socket programming to allow synchronous drawing on all instances.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="feed-post mt-2 border">
+                        <div class="p-2 bg-white">
+                            <div class="d-flex flex-row justify-content-between align-items-start profile">
+                                <div class="d-flex align-items-center"><img class="rounded-circle img-responsive" src="static/icon.jpeg" width="50" height="50">
+                                    <div class="d-flex flex-column ml-2">
+                                    <h6>Tej Pratap Singh</h6><span class="time">23,456 followers</span>
+                                    </div>
+                                </div><i class="fa fa-ellipsis-h text-black-50 mt-2"></i>
+                            </div>
+                            <div class="profile-content"><span>I love memes.</span>
+                                <div class="content-image"><img src='static/image1.png'>
+                                </div>
+                            </div>
+                            <div class="profile-engagements">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ads mt-2 border">
+                        <div class="p-2 bg-white">
+                            <div class="d-flex flex-row justify-content-between align-items-center">
+                            <h6 class="mt-1">Adobe photoshop XD</h6><span class="border px-2 ads-text">Sponsored</span>
+                            </div>
+                            <div class="ads-content"><span>We selected the best tech projects to find you the ideal jobs. we offers salaries from $70K -100K so what you are waiting for just apply now with your latest resume.</span><img class="img-fluid img-responsive mt-2" src="static/adobe.jpeg">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </body>
+    </html>

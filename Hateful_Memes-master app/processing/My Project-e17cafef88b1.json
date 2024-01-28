@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "modular-citron-297217",
+  "private_key_id": "e17cafef88b1d17017981924b2d9519a7f9baea0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBEXMqB+MzkQPw\nUYH4K4MNqu/TeT52rs5QViwdQDB+zYGioyIigY9ZovDhyixJqo/9jTQx8EOT3wF5\nX4NLoKn5lSZ8QHuA/HF/gBXicNrlMDz/uv7tEzReDjDINf/uAXjTbCilCDUrp+tf\nV7GRhaG4Z/ushYjZQlui5p3jIc3iwqUpBKTXD7lkAoop0/ufrk7r6RLPgt6gZ56q\nkoLIPyDA8GyCtsXCIGwSfqhEfF/bfL1zle7nFQ0h/vKKCHIuC17PTSecbrxOlWHu\n4CeESCvsSqm5XKQFRPdc8K+24LFpTHPaW0u2tWeobLWiPHgNzj4wkQ/c98m9O0/l\nodJMPgblAgMBAAECggEABf4qIviFkqJ1k19ppk267JmNDtvJQYFOf3gm4u3RJJxX\n4esGIWxVcIK14DkhHXapwLxkHsT5yVpzISF6P5NhyKHjXnalq47mLe4M0Os6zP1Y\nVCyYj4l0ZxNDBXHK2z/BP2/bXUDWxJs0RjcVsjQj0IwTVuGUGTPrkVI7xkLUoEb4\no82Kocrt9JIKWscP6YsR3/l1LnLpZgEpDMtdIZ2tZaUYwqtS28sYCBu1ejF3n57V\nG844GMvLzyXqJ/jf7d29ap3AfdraR3TZrMRpxO/p+oDljluacd1KfRaSYunb67Ow\nJw01VnLmJ75m1v5IG/4W+ilgo5jc/setFb2dYf7E6QKBgQDgTp0U/CKEni7tUq/w\np5rTtz+wrR21iTFKlDa9z3LidMHPdrpOWgzK+KgAe/iLDhwrLnKdd7DJhxVO+L9B\nO1kPGmGPgYRNdJCTchT12ybdA++InZPxEIlPgqJ9qfHDec0ITX5oiZLOh5yOwniN\nZvjSfgBU6miGmsmsT6kKHU9IJwKBgQDcWOWRt7H0/asTP7K66BAH5ugxgNVdhxwA\n4pOAn9msZ2tv9QFB8RWufY5n82axLWoLM4VA8pn/rn7CWtM+91Gi1hjCL7zCjsGZ\nCydtwvWmqRsTYFUBmZJIu/PjkmoVlvPvsaOr9zGfl1aY3TU9GojeliWphoffOdEU\nR/YSyEZ0EwKBgQDZqC8RL+Cm44AR1kzXryu0CXuKC1Jq16e3AL9lzClkyXtPv5vl\nb8g+JK+RWLrC5Hw9AqNBXeV0iNoKeaHMwLQYzbahtEIXjubDzM2+DFxX1vvWi2IF\nZ9B2EQNwATqSPlzQk7H36pdERZ+Lf/XO8H6+cnoL7DJle0n7JImZQPuvvQKBgEk/\nnAEWyaehc+9QK4AKiNm3ntRl+Ye/1EVPDK2jdd7j+kkbbzGWjRiWUHKp7SdU632R\nwOhYPW1LeoPtYW/7Ez5IYa6b4+nhPuY7WP4Z40Nlz8RfL6L6hDB9mpO6Jl3K8ohp\nyvjtkad1zam/T2VinsEvtJFoUV6Zf7F4Qor33MPVAoGALBePa6mjriLqFgLYL5do\nfgUSkZOvnOYqHcNGOTCZliwqO1D/3j+ksB9gKRZ0hAeC7XMeqB3VD0qmO0IG1J2n\njFfxaV6bhSAS2CWBQ3pL3NOwvkgmVnbv/esclP6owjy13kb6bdHl39oQl4TocoS+\nXuylBhdkk+LDk2bUA15LJy0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hatememe@modular-citron-297217.iam.gserviceaccount.com",
+  "client_id": "105137829308913566270",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hatememe%40modular-citron-297217.iam.gserviceaccount.com"
+}
